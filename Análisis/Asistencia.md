@@ -1,4 +1,4 @@
-Comparación de Asistencia por Grupo
+# Comparación de Asistencia por Grupo
 ## Descripción
 Este documento presenta un análisis detallado de la asistencia en los distintos grupos de la materia Dirección de Sistemas de Información. Se identifican tendencias, se comparan métricas y se analiza el impacto de la asistencia en el rendimiento académico.
 
