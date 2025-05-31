@@ -1,17 +1,17 @@
-# 📊 Vision_Directiva_Dashboard
+# Vision Directiva Dashboard
 
-## 📘 Descripción General
+## Descripción General
 
 Este proyecto realiza una auditoría integral de la asistencia en la materia **Dirección de Sistemas de Información (DSI)**. Su objetivo principal es evaluar la eficiencia del pase de lista, identificar patrones de comportamiento estudiantil y proponer soluciones tecnológicas e innovadoras que optimicen este proceso dentro del entorno académico.
 
 El análisis se basa en datos reales, aplicando métricas clave y herramientas de gestión propias de la disciplina, con el fin de generar un diagnóstico profundo y proponer estrategias de mejora sostenibles.
 
-> **¿Por qué es importante este análisis?**  
-> La asistencia es un indicador clave del compromiso y rendimiento académico. Además, el tiempo invertido en el pase de lista impacta directamente en la eficiencia operativa de cada sesión. Con herramientas de gestión adecuadas, es posible transformar este proceso en una oportunidad de mejora continua.
+ **¿Por qué es importante este análisis?**  
+La asistencia es un indicador clave del compromiso y rendimiento académico. Además, el tiempo invertido en el pase de lista impacta directamente en la eficiencia operativa de cada sesión. Con herramientas de gestión adecuadas, es posible transformar este proceso en una oportunidad de mejora continua.
 
 ---
 
-## 📈 Evaluación de Datos y Métricas Extraídas
+## Evaluación de Datos y Métricas Extraídas
 
 ### 1. Asistencia General
 
@@ -34,14 +34,14 @@ El análisis se basa en datos reales, aplicando métricas clave y herramientas d
 
 ### 3. Tiempo de Pase de Lista
 
-- ⏱️ **Promedio por sesión:** 4m38s  
-- ⏱️ **Máximo registrado:** 6m28s  
-- ⏱️ **Mínimo registrado:** 3m33s  
-- 📉 **Desviación estándar:** 52s (indica variabilidad significativa)
+- **Promedio por sesión:** 4m38s  
+- **Máximo registrado:** 6m28s  
+- **Mínimo registrado:** 3m33s  
+- **Desviación estándar:** 52s (indica variabilidad significativa)
 
 ---
 
-## 🚀 Innovación y Optimización en la Gestión de Asistencia
+## Innovación y Optimización en la Gestión de Asistencia
 
 ### 1. Automatización del Pase de Lista
 - Uso de códigos QR, biometría o apps móviles.
@@ -64,39 +64,39 @@ El análisis se basa en datos reales, aplicando métricas clave y herramientas d
 
 ---
 
-## 🧭 Aplicación del Proceso Directivo (PODC)
+## Aplicación del Proceso Directivo (PODC)
 
-### 🧩 Planeación
+### Planeación
 - Definición de objetivos de asistencia.
 - Selección de herramientas digitales adecuadas.
 
-### 🏗️ Organización
+### Organización
 - Implementación de sistemas automatizados.
 - Establecimiento de flujos de trabajo claros.
 
-### 🎯 Dirección
+### Dirección
 - Estrategias para motivar al estudiante.
 - Uso de datos para tomar decisiones pedagógicas.
 
-### 📊 Control
+### Control
 - Evaluación continua de resultados.
 - Ajustes estratégicos basados en evidencia.
 
 ---
 
-## 🧾 Resumen
+## Resumen
 
 Este proyecto propone una transformación digital del proceso de pase de lista en la materia DSI. A través del análisis de datos, la implementación de tecnología y la aplicación del proceso directivo, se busca mejorar la eficiencia operativa del aula y fortalecer el compromiso estudiantil.
 
 ---
 
-## ✅ Conclusión
+## Conclusión
 
 Un pase de lista que supera los 5 minutos por sesión representa una pérdida significativa de tiempo académico. La automatización y el análisis inteligente de la asistencia no solo optimizan el proceso, sino que también permiten detectar a tiempo a estudiantes en riesgo, mejorando así la calidad educativa.
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Emilio Muciño Segura**  
 **Universidad Europea del Atlántico**
