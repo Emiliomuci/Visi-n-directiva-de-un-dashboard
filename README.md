@@ -1,80 +1,107 @@
 # Vision_Directiva_Dashboard
+## Descripción:
+Este proyecto realiza una auditoría exhaustiva de la asistencia en la materia Dirección de Sistemas de Información (DSI). Su finalidad es evaluar la eficiencia del pase de lista, identificar patrones de asistencia y proponer soluciones tecnológicas e innovadoras para optimizar este proceso.
 
-# Análisis y Mejora de Hoja de Asistencia
+El análisis se basa en datos reales, aplicando métricas clave y técnicas de gestión propias de DSI para generar un diagnóstico profundo y proponer estrategias de mejora.
 
-Este repositorio contiene el análisis, auditoría y propuestas de innovación sobre una hoja de asistencia con múltiples pestañas. El objetivo es optimizar su funcionalidad y extraer indicadores útiles para la toma de decisiones educativas y organizacionales.
+> ¿Por qué es importante este análisis? > En un entorno académico, la asistencia es un indicador crucial del compromiso y rendimiento de los estudiantes. Además, el tiempo de registro de asistencia influye en la eficiencia operativa de cada sesión. Con herramientas avanzadas de gestión, podemos no solo evaluar los indicadores actuales, sino optimizar el proceso para que sea más ágil, preciso y eficaz.
 
-## Evaluación General
+## Evaluación de Datos y Métricas Extraídas
 
-Se realizó una auditoría sobre todas las pestañas de la hoja, identificando fortalezas y áreas de mejora:
+## 1. Asistencia general
+Promedio de asistencia global: 79.45%
 
-### Fortalezas
-- Registro cronológico de fechas.
-- Orden y estructura básica mantenida.
-- Acceso directo y sin contraseñas.
+Máximo individual: 100%
 
-### Áreas de Mejora
-- Ausencia de fórmulas automáticas para conteo de asistencias.
-- Inconsistencia en el formato de marcado.
-- Falta de visualización de métricas (gráficas o paneles).
-- No se registra el tiempo en que se toma la asistencia.
+Mínimo individual: 8%
 
+Alumnos con asistencia baja (<50%): 7 alumnos (potencial riesgo de deserción).
 
-## Indicadores Extraíbles
+## 2. Comparación entre grupos
+Grupo	Asistencia promedio	Nivel de compromiso
+GADE	79.67%	Moderado
+GII	88.22%	Alto
+GIOI	85.34%	Alto
+gPI	83.60%	Alto
 
-| Indicador                       | Descripción                                              | Métrica         |
-|--------------------------------|----------------------------------------------------------|-----------------|
-| Tasa de asistencia individual  | % de sesiones a las que asistió cada persona             | Porcentaje (%)  |
-| Asistencia grupal por sesión   | Asistencia global por día o evento                       | Tendencia       |
-| Frecuencia de faltas           | Conteo o porcentaje de ausencias por persona             | Conteo / %      |
-| Puntualidad del llenado        | Tiempo promedio de captura de asistencia                 | Minutos         |
-| Cobertura del llenado          | % de sesiones con asistencia registrada correctamente    | Porcentaje (%)  |
-| Errores comunes                | Celdas vacías, doble marcado, formatos mal usados        | Incidencias     |
+## 3. Análisis:
+Los grupos GII y GIOI muestran altos niveles de asistencia, mientras que GADE tiene un rendimiento más fluctuante. Se puede evaluar si el contenido del curso impacta la motivación de los estudiantes.
 
+## 4. Evaluación del tiempo de pase de lista
+- Tiempo promedio por sesión: 4m38s
 
-## Estimación del Tiempo Invertido
+- Tiempo máximo registrado: 6m28s
 
-- **Promedio por alumno:** 4-6 segundos.
-- **Grupo de 25 alumnos:** ~2 minutos por sesión.
-- **Total semanal (4 sesiones):** 8 minutos.
-- **Total semestral (~16 semanas):** 128 minutos (~2 horas).
+- Tiempo mínimo registrado: 3m33s
 
-**Conclusión:** El proceso actual es repetitivo y puede automatizarse para ahorrar tiempo.
-
----
-
-## Proceso Directivo Aplicado
-
-| Paso | Aplicación práctica en la hoja de asistencia |
-|------|-----------------------------------------------|
-| **Planeación** | Diseño del formato, estructura de sesiones y criterios. |
-| **Organización** | Distribución por pestañas, roles de llenado. |
-| **Dirección** | Comunicación del uso y supervisión del llenado. |
-| **Control** | Revisión de cumplimiento, análisis de métricas. |
+- Desviación estándar: 52s (indica variabilidad)
 
 
+## Innovación y Optimización en la Gestión de Asistencia
+Soluciones tecnológicas:
+1. Automatización con códigos QR o biometría
 
-##  Propuestas de Innovación
+- Reducción del tiempo de pase de lista.
 
--  Automatización con fórmulas (`COUNTIF`, `IF`, `SUM`).
--  Dashboard con gráficas y paneles visuales.
--  Validación de datos para evitar errores humanos.
--  Columna de comentarios para justificar ausencias.
--  Formularios automatizados (Google Forms + AppScript).
--  Análisis mensual individual para detectar patrones.
+- Mejora en la precisión del registro de asistencia.
+
+Eliminación de errores manuales.
+
+2. Implementación de una plataforma de alerta temprana
+
+- Identificación de estudiantes en riesgo.
+
+- Integración con sistemas de seguimiento académico.
+
+- Envío de notificaciones a alumnos con asistencia baja.
+
+3. Gamificación e incentivos
+
+- Ranking de asistencia dentro del aula.
+
+- Premios o reconocimientos para estudiantes con asistencia perfecta.
+
+- Motivación a través de desafíos interactivos.
+
+4. Análisis predictivo de asistencia
+
+- Modelos de inteligencia artificial para prever tendencias de asistencia.
+
+- Evaluación del impacto en el rendimiento académico.
 
 
+## Aplicación del Proceso Directivo en el Pase de Lista
+Cuatro pasos del proceso directivo
+1. Planeación
 
-## Entrega
+- Definir estrategias de asistencia y establecer objetivos medibles.
 
-- **Fecha límite:** Domingo 1 de junio.
-- **Tipo de entrega:** Individual (trabajo en grupo opcional).
+- Determinar herramientas digitales para optimizar el registro.
 
+2. Organización
+
+- Implementar un sistema de asistencia automatizada.
+
+- Establecer flujos de trabajo en la toma de lista.
+
+3. Dirección
+
+- Aplicación de medidas para mejorar la motivación del estudiante.
+
+- Uso de herramientas analíticas para mejorar el control de asistencia.
+
+4. Control
+
+- Evaluación de los resultados y ajustes estratégicos.
+
+- Revisión periódica de los datos y optimización del proceso.
+
+## Resumen 
+Este proyecto tiene como objetivo principal mejorar la gestión de asistencia en la materia Dirección de Sistemas de Información a través de análisis detallados y estrategias innovadoras. Se presenta una auditoría completa y propuestas tecnológicas para optimizar la eficiencia del pase de lista y la retención de estudiantes.
+
+## Conclusión: 
+Un tiempo de pase de lista mayor a 5 minutos en una sesión reduce la eficiencia operativa del aula. Se recomienda implementar estrategias digitales para minimizar esta demora.
 
 
 ## Autor
-
-Emilio Muciño Segura  
-Estudiante de Ingeniería en Desarrollo de Software  
-Auditoría y Mejora de Procesos Académicos
-
+Emilio Muciño Segura
