@@ -1,107 +1,103 @@
-# Vision_Directiva_Dashboard
-## Descripción:
-Este proyecto realiza una auditoría exhaustiva de la asistencia en la materia Dirección de Sistemas de Información (DSI). Su finalidad es evaluar la eficiencia del pase de lista, identificar patrones de asistencia y proponer soluciones tecnológicas e innovadoras para optimizar este proceso.
+# 📊 Vision_Directiva_Dashboard
 
-El análisis se basa en datos reales, aplicando métricas clave y técnicas de gestión propias de DSI para generar un diagnóstico profundo y proponer estrategias de mejora.
+## 📘 Descripción General
 
-> ¿Por qué es importante este análisis? > En un entorno académico, la asistencia es un indicador crucial del compromiso y rendimiento de los estudiantes. Además, el tiempo de registro de asistencia influye en la eficiencia operativa de cada sesión. Con herramientas avanzadas de gestión, podemos no solo evaluar los indicadores actuales, sino optimizar el proceso para que sea más ágil, preciso y eficaz.
+Este proyecto realiza una auditoría integral de la asistencia en la materia **Dirección de Sistemas de Información (DSI)**. Su objetivo principal es evaluar la eficiencia del pase de lista, identificar patrones de comportamiento estudiantil y proponer soluciones tecnológicas e innovadoras que optimicen este proceso dentro del entorno académico.
 
-## Evaluación de Datos y Métricas Extraídas
+El análisis se basa en datos reales, aplicando métricas clave y herramientas de gestión propias de la disciplina, con el fin de generar un diagnóstico profundo y proponer estrategias de mejora sostenibles.
 
-## 1. Asistencia general
-Promedio de asistencia global: 79.45%
+> **¿Por qué es importante este análisis?**  
+> La asistencia es un indicador clave del compromiso y rendimiento académico. Además, el tiempo invertido en el pase de lista impacta directamente en la eficiencia operativa de cada sesión. Con herramientas de gestión adecuadas, es posible transformar este proceso en una oportunidad de mejora continua.
 
-Máximo individual: 100%
+---
 
-Mínimo individual: 8%
+## 📈 Evaluación de Datos y Métricas Extraídas
 
-Alumnos con asistencia baja (<50%): 7 alumnos (potencial riesgo de deserción).
+### 1. Asistencia General
 
-## 2. Comparación entre grupos
-Grupo	Asistencia promedio	Nivel de compromiso
-GADE	79.67%	Moderado
-GII	88.22%	Alto
-GIOI	85.34%	Alto
-gPI	83.60%	Alto
+- **Promedio global de asistencia:** 79.45%  
+- **Máximo individual:** 100%  
+- **Mínimo individual:** 8%  
+- **Estudiantes con asistencia baja (<50%):** 7 alumnos (potencial riesgo de deserción)
 
-## 3. Análisis:
-Los grupos GII y GIOI muestran altos niveles de asistencia, mientras que GADE tiene un rendimiento más fluctuante. Se puede evaluar si el contenido del curso impacta la motivación de los estudiantes.
+### 2. Comparación entre Grupos
 
-## 4. Evaluación del tiempo de pase de lista
-- Tiempo promedio por sesión: 4m38s
+| Grupo | Asistencia Promedio | Nivel de Compromiso |
+|-------|----------------------|----------------------|
+| GADE  | 79.67%               | Moderado             |
+| GII   | 88.22%               | Alto                 |
+| GIOI  | 85.34%               | Alto                 |
+| gPI   | 83.60%               | Alto                 |
 
-- Tiempo máximo registrado: 6m28s
+> **Análisis:**  
+> Los grupos GII y GIOI presentan altos niveles de asistencia y consistencia. GADE, en cambio, muestra mayor variabilidad, lo que podría estar relacionado con factores internos del grupo o desmotivación.
 
-- Tiempo mínimo registrado: 3m33s
+### 3. Tiempo de Pase de Lista
 
-- Desviación estándar: 52s (indica variabilidad)
+- ⏱️ **Promedio por sesión:** 4m38s  
+- ⏱️ **Máximo registrado:** 6m28s  
+- ⏱️ **Mínimo registrado:** 3m33s  
+- 📉 **Desviación estándar:** 52s (indica variabilidad significativa)
 
+---
 
-## Innovación y Optimización en la Gestión de Asistencia
-Soluciones tecnológicas:
-1. Automatización con códigos QR o biometría
+## 🚀 Innovación y Optimización en la Gestión de Asistencia
 
-- Reducción del tiempo de pase de lista.
+### 1. Automatización del Pase de Lista
+- Uso de códigos QR, biometría o apps móviles.
+- Reducción del tiempo de registro.
+- Eliminación de errores manuales.
 
-- Mejora en la precisión del registro de asistencia.
+### 2. Plataforma de Alerta Temprana
+- Identificación automática de estudiantes en riesgo.
+- Integración con sistemas académicos.
+- Notificaciones personalizadas a estudiantes y tutores.
 
-Eliminación de errores manuales.
+### 3. Gamificación e Incentivos
+- Rankings de asistencia.
+- Reconocimientos simbólicos o académicos.
+- Desafíos interactivos para fomentar la participación.
 
-2. Implementación de una plataforma de alerta temprana
+### 4. Análisis Predictivo
+- Modelos de IA para prever ausencias.
+- Evaluación del impacto de la asistencia en el rendimiento.
 
-- Identificación de estudiantes en riesgo.
+---
 
-- Integración con sistemas de seguimiento académico.
+## 🧭 Aplicación del Proceso Directivo (PODC)
 
-- Envío de notificaciones a alumnos con asistencia baja.
+### 🧩 Planeación
+- Definición de objetivos de asistencia.
+- Selección de herramientas digitales adecuadas.
 
-3. Gamificación e incentivos
+### 🏗️ Organización
+- Implementación de sistemas automatizados.
+- Establecimiento de flujos de trabajo claros.
 
-- Ranking de asistencia dentro del aula.
+### 🎯 Dirección
+- Estrategias para motivar al estudiante.
+- Uso de datos para tomar decisiones pedagógicas.
 
-- Premios o reconocimientos para estudiantes con asistencia perfecta.
+### 📊 Control
+- Evaluación continua de resultados.
+- Ajustes estratégicos basados en evidencia.
 
-- Motivación a través de desafíos interactivos.
+---
 
-4. Análisis predictivo de asistencia
+## 🧾 Resumen
 
-- Modelos de inteligencia artificial para prever tendencias de asistencia.
+Este proyecto propone una transformación digital del proceso de pase de lista en la materia DSI. A través del análisis de datos, la implementación de tecnología y la aplicación del proceso directivo, se busca mejorar la eficiencia operativa del aula y fortalecer el compromiso estudiantil.
 
-- Evaluación del impacto en el rendimiento académico.
+---
 
+## ✅ Conclusión
 
-## Aplicación del Proceso Directivo en el Pase de Lista
-Cuatro pasos del proceso directivo
-1. Planeación
+Un pase de lista que supera los 5 minutos por sesión representa una pérdida significativa de tiempo académico. La automatización y el análisis inteligente de la asistencia no solo optimizan el proceso, sino que también permiten detectar a tiempo a estudiantes en riesgo, mejorando así la calidad educativa.
 
-- Definir estrategias de asistencia y establecer objetivos medibles.
+---
 
-- Determinar herramientas digitales para optimizar el registro.
+## 👤 Autor
 
-2. Organización
+**Emilio Muciño Segura**  
+**Universidad Europea del Atlántico**
 
-- Implementar un sistema de asistencia automatizada.
-
-- Establecer flujos de trabajo en la toma de lista.
-
-3. Dirección
-
-- Aplicación de medidas para mejorar la motivación del estudiante.
-
-- Uso de herramientas analíticas para mejorar el control de asistencia.
-
-4. Control
-
-- Evaluación de los resultados y ajustes estratégicos.
-
-- Revisión periódica de los datos y optimización del proceso.
-
-## Resumen 
-Este proyecto tiene como objetivo principal mejorar la gestión de asistencia en la materia Dirección de Sistemas de Información a través de análisis detallados y estrategias innovadoras. Se presenta una auditoría completa y propuestas tecnológicas para optimizar la eficiencia del pase de lista y la retención de estudiantes.
-
-## Conclusión: 
-Un tiempo de pase de lista mayor a 5 minutos en una sesión reduce la eficiencia operativa del aula. Se recomienda implementar estrategias digitales para minimizar esta demora.
-
-
-## Autor
-Emilio Muciño Segura
