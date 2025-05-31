@@ -1,91 +1,87 @@
-Identificación de Estudiantes en Riesgo de Abandono Académico
-## Descripción
-Este análisis examina los estudiantes con asistencia inferior al 50%, identificando patrones de abandono y factores que pueden afectar la continuidad académica. Se propone un sistema de alertas tempranas y estrategias de intervención para mejorar el compromiso y reducir el riesgo de deserción.
+# Identificación de Estudiantes en Riesgo de Abandono Académico
 
-> ¿Por qué es importante este análisis? > La asistencia no solo indica la participación activa en clase, sino que también puede predecir el riesgo de abandono. Identificar alumnos con baja asistencia permite implementar estrategias preventivas, mejorando la tasa de retención y el rendimiento académico.
+## Descripción General
+
+Este apartado analiza a los estudiantes cuya asistencia se encuentra por debajo del 50%, con el objetivo de detectar posibles casos de abandono académico. A partir de los datos recopilados, se identifican patrones de riesgo y se proponen estrategias de intervención temprana para fomentar la permanencia y el compromiso estudiantil.
+
+## ¿Por qué es importante este análisis?
+
+La asistencia no es solo un indicador de presencia física, sino también un reflejo del nivel de compromiso, motivación y organización del estudiante. Detectar a tiempo a quienes presentan baja asistencia permite actuar de forma preventiva, evitando que la situación se agrave y afecte su rendimiento o permanencia en la asignatura.
+
+---
 
 ## Métricas de Riesgo de Abandono
-A continuación, se presentan las métricas clave de estudiantes con asistencia crítica:
 
-Nombre	Grupo	Asistencia (%)	Estado de riesgo
-José Luis Rodríguez González	GII	85%	Riesgo moderado
-Marco Vallejo Castro	GADE	19%	Riesgo alto
-María Ximena Salguero Barillas	GADE	8%	Riesgo extremo
-Gerson Rafael Rivera Vaquerano	GADE	15%	Riesgo alto
-Raúl Miguel Jeer	GIOI	46%	Riesgo medio
-Juan Blandin Patiño	GADE	50%	Riesgo medio
-Luciana Ochoa Tirado	GIOI	69%	Riesgo bajo
+| Nombre                                | Grupo | Asistencia (%) | Nivel de Riesgo   |
+|---------------------------------------|--------|-----------------|-------------------|
+| José Luis Rodríguez González          | GII    | 85%             | Moderado          |
+| Marco Vallejo Castro                  | GADE   | 19%             | Alto              |
+| María Ximena Salguero Barillas        | GADE   | 8%              | Extremo           |
+| Gerson Rafael Rivera Vaquerano        | GADE   | 15%             | Alto              |
+| Raúl Miguel Jeer                      | GIOI   | 46%             | Medio             |
+| Juan Blandin Patiño                   | GADE   | 50%             | Medio             |
+| Luciana Ochoa Tirado                  | GIOI   | 69%             | Bajo              |
 
+### Interpretación de los Datos
 
-## Interpretación:
+- **Riesgo extremo:** Estudiantes con asistencia menor al 20% (como María Ximena y Gerson Rafael) requieren intervención inmediata.
+- **Riesgo medio:** Casos entre 40% y 50% aún pueden recuperarse con estrategias adecuadas.
+- **Riesgo bajo a moderado:** Aunque no críticos, los estudiantes con asistencia entre 60% y 70% deben ser monitoreados para evitar recaídas.
 
-Casos críticos: María Ximena Salguero Barillas y Gerson Rafael Rivera Vaquerano muestran asistencia menor al 20%, lo que indica riesgo extremo de abandono académico.
+---
 
-Casos con asistencia entre 40-50%: Raúl Miguel Jeer y Juan Blandin Patiño tienen un riesgo medio, pero aún pueden ser recuperables con medidas adecuadas.
+## Patrones Comunes en Casos de Riesgo
 
-Casos de asistencia entre 60-70%: Aunque menor, todavía puede representar falta de compromiso, lo que podría afectar su rendimiento.
+A partir del análisis cualitativo, se identifican factores recurrentes entre los estudiantes con baja asistencia:
 
-## Patrones de Deserción Académica Identificados
-Se han identificado factores comunes en los estudiantes con asistencia crítica:
+- **Sobrecarga académica:** Dificultad para equilibrar múltiples asignaturas o responsabilidades.
+- **Desmotivación:** Falta de interés o conexión con el contenido de la materia.
+- **Problemas personales o laborales:** Situaciones externas que interfieren con la asistencia regular.
+- **Ausencias sin seguimiento:** Falta de mecanismos de recuperación o apoyo tras ausencias prolongadas.
 
-Dificultades con la carga académica: Posible sobrecarga de trabajo que limita la participación en clase.
-
-Desmotivación en la materia: La falta de interés en el curso puede influir en la asistencia.
-
-Problemas externos: Factores personales o laborales afectan la capacidad de asistir regularmente.
-
-Falta de estrategias de recuperación: Ausencias prolongadas sin seguimiento pueden derivar en abandono definitivo.
-
-## Solución: 
-Implementar un plan de intervención, en el cual estudiantes en riesgo reciban alertas tempranas y tutorías para mejorar su asistencia.
+---
 
 ## Propuesta de Intervención y Recuperación
 
-Para reducir el riesgo de abandono y mejorar la asistencia, se pueden aplicar las siguientes estrategias:
+### 1. Sistema de Seguimiento Académico
+- Detección automática de estudiantes con asistencia decreciente.
+- Notificaciones a docentes y tutores para activar protocolos de intervención.
 
-Sistema de seguimiento académico:
+### 2. Encuestas de Motivación
+- Evaluación del interés y percepción del curso por parte del estudiante.
+- Ajustes metodológicos para hacer la clase más atractiva e interactiva.
 
-- Identificación de alumnos con tendencia de asistencia decreciente.
+### 3. Tutorías Personalizadas
+- Asesorías dirigidas a estudiantes con asistencia crítica.
+- Aplicación de técnicas de aprendizaje activo para fomentar la participación.
 
-- Notificación automática a profesores y tutores para intervención.
+### 4. Flexibilización de Asistencia
+- Adaptación de horarios o modalidades (presencial/híbrido) para casos especiales.
+- Registro alternativo de participación mediante actividades asincrónicas.
 
-Encuestas de motivación:
+---
 
-- Evaluar el interés de los estudiantes en la materia.
+## Evaluación y Control del Plan de Intervención
 
-- Aplicar estrategias de enseñanza más interactivas.
+Para medir la efectividad de las estrategias implementadas, se proponen los siguientes indicadores:
 
-Tutorías personalizadas:
+### Índice de Recuperación
+- Porcentaje de estudiantes en riesgo que mejoran su asistencia tras la intervención.
+- Comparación del rendimiento académico antes y después del plan.
 
-- Asesorías focalizadas en estudiantes con asistencia menor al 50%.
+### Impacto de Estrategias Motivacionales
+- Cambios en el nivel de interés y participación en clase.
+- Resultados de encuestas de satisfacción y percepción del curso.
 
-- Inclusión de técnicas de aprendizaje activo para mejorar su participación.
+### Efectividad de Alertas Tempranas
+- Tiempo promedio de respuesta desde la detección hasta la intervención.
+- Porcentaje de casos exitosos tras recibir la alerta.
 
-Flexibilización de asistencia en casos especiales:
+---
 
-- Adaptación de horarios para alumnos con limitaciones personales.
+## Conclusión
 
-- Implementación de modelos híbridos de enseñanza para mayor accesibilidad.
+La identificación temprana de estudiantes en riesgo de abandono es una herramienta clave para mejorar la retención y el rendimiento académico. A través de un enfoque proactivo, personalizado y basado en datos, es posible transformar la asistencia en una oportunidad para fortalecer el vínculo entre el estudiante y la asignatura.
 
-## Evaluación y Control de Asistencia en Riesgo
-Indicadores clave para medir efectividad del plan de intervención:
-
-1. Índice de recuperación de estudiantes en riesgo
-
-Porcentaje de alumnos en riesgo que mejoran su asistencia tras la intervención.
-
-Comparación entre rendimiento académico antes y después.
-
-2. Impacto de las estrategias motivacionales
-
-Evaluación de interés y compromiso en la materia después de aplicar tutorías.
-
-Análisis de participación en clase y actividades académicas.
-
-3. Efectividad de las alertas tempranas
-
-Tiempo promedio de reacción tras la detección de asistencia baja.
-
-Porcentaje de alumnos que mejoran su rendimiento tras recibir la alerta.
 
 Evaluación periódica cada mes para ajustar estrategias en función de los datos obtenidos.
