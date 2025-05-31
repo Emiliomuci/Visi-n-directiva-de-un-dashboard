@@ -11,21 +11,20 @@ La asistencia es un indicador clave del compromiso y rendimiento académico. Ade
 ---
 
 ## Proyecto Asistencia DSI
-├── **análisis**
+├── análisis
 │   ├── Asistencia.md
-│   ├── Estudiantes_Riesgo.md/
-│   ├── Lista_Estudiantes_Graph.jpeg/
-│   ├── Nivel_Riesgo_Abandono_Graph.jpeg/
-│   ├── Tiempo_Pase_Lista_Graph.jpeg/
-
-├── **innovacion**
+│   ├── Estudiantes_Riesgo.md
+│   ├── Lista_Estudiantes_Graph.jpeg
+│   ├── Nivel_Riesgo_Abandono_Graph.jpeg
+│   └── Tiempo_Pase_Lista_Graph.jpeg
+├── innovacion
 │   ├── Proceso_Directivo.md
-│   ├── innovación.md/
-
-├── **conclusión**
+│   └── innovación.md
+├── conclusión
 │   ├── Conclusión.md
 │   └── Reflexión_Personal.md
 └── README.md
+
 
 ---
 
