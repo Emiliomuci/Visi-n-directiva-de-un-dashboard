@@ -1,10 +1,9 @@
 # Vision Directiva Dashboard
 
 ## Descripción General
+En este trabajo hago una revisión del control de asistencia en la materia Dirección de Sistemas de Información (DSI). El objetivo es analizar qué tan eficiente es el pase de lista, detectar patrones en la asistencia de los estudiantes y proponer soluciones tecnológicas e innovadoras que ayuden a mejorar este proceso dentro del entorno académico.
 
-Este proyecto realiza una auditoría integral de la asistencia en la materia **Dirección de Sistemas de Información (DSI)**. Su objetivo principal es evaluar la eficiencia del pase de lista, identificar patrones de comportamiento estudiantil y proponer soluciones tecnológicas e innovadoras que optimicen este proceso dentro del entorno académico.
-
-El análisis se basa en datos reales, aplicando métricas clave y herramientas de gestión propias de la disciplina, con el fin de generar un diagnóstico profundo y proponer estrategias de mejora sostenibles.
+Para ello, me basé en datos reales y utilicé métricas clave junto con herramientas propias de la gestión de sistemas de información. La idea es obtener un diagnóstico claro y proponer estrategias sostenibles que realmente aporten valor.
 
  **¿Por qué es importante este análisis?**  
 La asistencia es un indicador clave del compromiso y rendimiento académico. Además, el tiempo invertido en el pase de lista impacta directamente en la eficiencia operativa de cada sesión. Con herramientas de gestión adecuadas, es posible transformar este proceso en una oportunidad de mejora continua.
