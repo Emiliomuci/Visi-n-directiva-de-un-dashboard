@@ -1,8 +1,8 @@
-# 💡 Propuestas de Innovación para la Gestión de Asistencia
+# Propuestas de Innovación para la Gestión de Asistencia
 
 Con base en el análisis de los datos de asistencia y los tiempos de pase de lista, se proponen las siguientes soluciones tecnológicas y estratégicas para optimizar el proceso:
 
-## 1. 📲 Automatización del Pase de Lista
+## 1. Automatización del Pase de Lista
 
 **Tecnologías sugeridas:**
 - Códigos QR personalizados por estudiante.
@@ -16,7 +16,7 @@ Con base en el análisis de los datos de asistencia y los tiempos de pase de lis
 
 ---
 
-## 2. 🚨 Plataforma de Alerta Temprana
+## 2. Plataforma de Alerta Temprana
 
 **Objetivo:** Identificar y apoyar a estudiantes en riesgo de deserción por baja asistencia.
 
@@ -31,7 +31,7 @@ Con base en el análisis de los datos de asistencia y los tiempos de pase de lis
 
 ---
 
-## 3. 🏆 Gamificación e Incentivos
+## 3. Gamificación e Incentivos
 
 **Estrategias:**
 - Ranking de asistencia visible para los estudiantes.
@@ -42,7 +42,7 @@ Con base en el análisis de los datos de asistencia y los tiempos de pase de lis
 
 ---
 
-## 4. 🤖 Análisis Predictivo de Asistencia
+## 4. Análisis Predictivo de Asistencia
 
 **Herramientas:** Modelos de machine learning entrenados con datos históricos.
 
@@ -55,7 +55,7 @@ Con base en el análisis de los datos de asistencia y los tiempos de pase de lis
 
 ---
 
-## 5. 📊 Dashboard Interactivo para el Docente
+## 5. Dashboard Interactivo para el Docente
 
 **Componentes:**
 - Visualización en tiempo real de asistencia por sesión y por grupo.
